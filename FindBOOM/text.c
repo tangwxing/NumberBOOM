@@ -3,6 +3,9 @@
 #include <time.h>
 #include <stdlib.h>
 
+/*
+这是一个数字炸弹游戏
+*/
 int main()
 {
 	srand((unsigned int)time(NULL));
